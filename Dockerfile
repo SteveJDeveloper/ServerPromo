@@ -14,7 +14,7 @@ COPY routes.json ./
 RUN npm install
 
 # Expone el puerto 3000 del contenedor
-EXPOSE 443
+EXPOSE 8181
 
 # Comando para iniciar la aplicación
 CMD [ "node", "server.js" ]
