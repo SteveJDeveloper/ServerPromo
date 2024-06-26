@@ -12,5 +12,112 @@
         "title": "Promo B",
         "description": "Ven y compra Promo B"
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "MacBook Pro M1",
+      "image": "https://hiraoka.com.pe/media/mageplaza/blog/post/m/a/macbook_air_vs._macbook_pro-_cuales_son_sus_diferencias.jpg",
+      "description": "Ya está aquí el MacBook Pro más potente de la historia. Su rendimiento y eficiencia son enormes gracias a los chips M1 Pro y M1 Max, los primeros que Apple diseña para profesionales. Incluye una asombrosa pantalla Liquid Retina XDR.",
+      "price": 2100
+    },
+    {
+      "id": 2,
+      "name": "LAPTOP LENOVO IdeaPad3 15ADA05-Ryzen 3 4RAM 128HDD",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS1zsKGOPbohDdcA5vzFLa4yJ3qa7mjKSBRQ&s",
+      "description": "Memoria y almacenamiento: la memoria es de 8 GB de RAM de alto ancho de banda para ejecutar sin problemas múltiples aplicaciones y pestañas del navegador a la vez. ",
+      "price": 600
+    },
+    {
+      "id": 3,
+      "name": "Dell Inspiron 3520 Laptop FHD de 15.6 pulgadas",
+      "image": "https://m.media-amazon.com/images/I/51RhL6Fs8qL._AC_SX679_.jpg",
+      "description": "RAM de alta velocidad y espacio enorme: 32 GB de RAM de alto ancho de banda para ejecutar sin problemas múltiples aplicaciones y pestañas del navegador a la vez.",
+      "price": 692
+    },
+    {
+      "id": 4,
+      "name": "HP Laptop 15-fc0008la",
+      "image": "https://m.media-amazon.com/images/I/81mxGieXu6L._AC_SX679_.jpg",
+      "description": "Este portátil cuenta con el sistema operativo Windows 11 Home Single Language. Está equipado con un procesador AMD Ryzen™ 5 7520U, que ofrece una velocidad máxima de hasta 4,3 GHz, 4 MB de caché L3, 4 núcleos y 8 subprocesos.",
+      "price": 688
+    },
+    {
+      "id": 5,
+      "name": "HP Spectre x360 15",
+      "image": "https://leasein.pe/wp-content/uploads/2023/01/csm_c06518327_94a1b66c28-1-1024x769.webp",
+      "description": "Este dispositivo 2 en 1 es perfecto para programadores que necesitan una laptop y una tableta en una sola herramienta. Con un procesador Intel Core i7 de decima generación y una tarjeta gráfica Nvidia MX150, es capaz de manejar cualquier tarea de programación.",
+      "price": 1399
+    },
+    {
+      "id": 6,
+      "name": "Lenovo ThinkPad X1 Extreme",
+      "image": "https://leasein.pe/wp-content/uploads/2023/01/X1-Gen3-_2__678x452.webp",
+      "description": "Este equipo es ideal para programadores que necesitan una laptop potente y resistente. Con un procesador Intel Core i7 de octava generación y una tarjeta gráfica Nvidia GTX 1050 Ti, es capaz de manejar cualquier tarea de programación.",
+      "price": 849
+    },
+    {
+      "id": 7,
+      "name": "MacBook Pro 16",
+      "image": "https://leasein.pe/wp-content/uploads/2023/01/mbp14-silver2-1024x657.webp",
+      "description": "Si eres un programador Mac, entonces el MacBook Pro 14 es la mejor opción para ti. Con su procesador Intel Core i7 de sexta generación y su tarjeta gráfica Radeon Pro 555X, es capaz de manejar cualquier tarea de programación",
+      "price": 2398
+    },
+    {
+      "id": 8,
+      "name": "HP Elite Dragonfly Chromebook",
+      "image": "https://leasein.pe/wp-content/uploads/2023/01/c06453676-1.webp",
+      "description": "Si prefieres una laptop Chrome OS, entonces la HP Elite Dragonfly Chromebook es una excelente opción. Con su procesador Intel Core i5 de octava generación y su tarjeta gráfica Intel UHD 620, es capaz de manejar cualquier tarea de programación.",
+      "price": 999
+    },
+    {
+      "id": 9,
+      "name": "Microsoft Surface Book 2",
+      "image": "https://leasein.pe/wp-content/uploads/2023/01/RE1FU5k-1024x725.webp",
+      "description": "Este dispositivo 2 en 1 de Microsoft es una excelente opción para programadores que necesitan una laptop y una tableta en una sola herramienta. Con su procesador Intel Core i7 de octava generación y su tarjeta gráfica Nvidia GeForce GTX 1050.",
+      "price": 1058
+    },
+    {
+      "id": 10,
+      "name": "LG Gram 17",
+      "image": "https://leasein.pe/wp-content/uploads/2023/01/lg-gram-1-_1_-1024x576.webp",
+      "description": "Este equipo es ideal para programadores que necesitan una laptop ligera y potente. Con su procesador Intel Core i7 de octava generación y su tarjeta gráfica Intel UHD 620, es capaz de manejar cualquier tarea de programación.",
+      "price": 1999
+    },
+    {
+      "id": 11,
+      "name": "Microsoft Surface Pro 8",
+      "image": "https://leasein.pe/wp-content/uploads/2023/01/RWFHUx.webp",
+      "description": "Este dispositivo 2 en 1 es perfecto para programadores que necesitan una laptop y una tableta en una sola herramienta. Con su procesador Intel Core i7 de octava generación y su tarjeta gráfica Intel Iris Plus, es capaz de manejar cualquier tarea de programación.",
+      "price": 1899
+    },
+    {
+      "id": 12,
+      "name": "Dell XPS 13",
+      "image": "https://m.media-amazon.com/images/I/71hzkgpf+3L._AC_SX679_.jpg",
+      "description": "La Dell XPS 13 cuenta con una pantalla de 13.3 pulgadas con bordes ultradelgados que maximizan el área de visualización. El modelo base incluye una pantalla Full HD+ (1920 x 1200) con 500 nits de brillo, mientras que las configuraciones más avanzadas",
+      "price": 679
+    },
+    {
+      "id": 13,
+      "name": "Asus ZenBook 13",
+      "image": "https://m.media-amazon.com/images/I/71gzlsmf6+L._AC_SX679_.jpg",
+      "description": "Este ultrabook de 13 pulgadas cuenta con un diseño ligero y delgado, ideal para llevarlo a todas partes. Tiene un rendimiento potente gracias a sus procesadores Intel Core de última generación. ",
+      "price": 1235
+    },
+    {
+      "id": 14,
+      "name": "Razer Blade 18",
+      "image": "https://leasein.pe/wp-content/uploads/2024/04/Razer-Blade-18-300x300.webp",
+      "description": "La Razer Blade 18 es la elección perfecta para programadores que también son gamers. Su tarjeta gráfica de alto rendimiento y su pantalla de alta tasa de refresco hacen que sea ideal para desarrollo de juegos, VR y simulación.",
+      "price": 3299
+    },
+    {
+      "id": 15,
+      "name": "Acer Switf 3",
+      "image": "https://leasein.pe/wp-content/uploads/2024/04/Acer-Switf-3-300x300.webp",
+      "description": "Los estudiantes de programación, por otro lado, necesitan una laptop que sea potente pero también asequible.",
+      "price": 650
+    }
   ]
 }
