@@ -18,7 +18,7 @@ const corsOptions = {
 
 server.use(jsonServer.bodyParser)
 server.use(middlewares)
-server.use(cors(corsOptions))
+server.use(cors())
 
 server.use(router)
 server.listen(8181, () => {
